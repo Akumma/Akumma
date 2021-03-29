@@ -7,4 +7,6 @@
 <!---
 Akumma/Akumma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->[![build](https://github.com/osmlab/osm-community-index/actions/workflows/build.yml/badge.svg)](https://github.com/osmlab/osm-community-index/actions/workflows/build.yml)
+
+
