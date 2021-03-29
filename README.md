@@ -1,0 +1,14 @@
+- 👋 Hi, I’m @Akumma
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Akumma/Akumma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+#curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+     -H "Authorization: Bearer FZX5tD9Hb9DUgAFCOpHcQ4zL0zMB_R1rVqfYrZc1" \
+     -H "Content-Type:application/json"
+
